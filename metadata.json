@@ -1,0 +1,6 @@
+{
+  "name": "VEXO - Fine Art Adult Photo & Video Discovery",
+  "description": "Premium curated editorial photo gallery and video discovery platform featuring lawful, consensual, appropriately licensed 18+ adult fine art visual media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
